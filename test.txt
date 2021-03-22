@@ -1,9 +1,9 @@
-Hello there!
+Hello there, Students!
 
 Git course with generation 13 at Semos education
-
-22.03.2021
-
+Introduction
+Education Center Semos
+Course Git Hub 
+Generation 13
+Academy Java script
 Microsofr Teams  
-
-Introduction 
